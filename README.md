@@ -28,7 +28,7 @@ SpringBoot 백엔드(REST API)와 연동하며 매일 배운 내용을 정리합
 
 | Day | 주제 | 핵심 내용 | 노트 |
 |:---:|------|-----------|:---:|
-| 01 | Pinia 프로젝트 세팅 | Pinia+Router+axios 세팅, recipe Store(state/actions), Home·Detail·Find·Youtube View 구현 | [📄 보기](study-notes/vue_day01.md) |
+| 01 | Pinia 프로젝트 세팅 | Pinia+Router+axios 세팅, recipe Store(state/actions), Home·Detail·Find·Youtube View 구현 | [📄 보기](./study-notes/vue_day01.md) |
 | 02 | *(다음 학습 예정)* | | |
 
 > 새 학습일이 추가되면 이 표에 한 줄씩 이어서 채워주세요.
